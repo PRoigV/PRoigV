@@ -1,6 +1,5 @@
 ### Hi there 👋, Pere Roig Verdera
 #### Undergraduated student at University of Balearic Islands
-![Undergraduated student at University of Balearic Islands]
 
 I'm Pere, a college student at UIB, I'm exploring new technologies and seeking to expand my skills.
 
